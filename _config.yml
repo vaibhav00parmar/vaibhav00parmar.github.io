@@ -249,8 +249,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Parmar]
+  first_name: [Vaibhav, R. S.]
 
   style: apa
   locale: en
