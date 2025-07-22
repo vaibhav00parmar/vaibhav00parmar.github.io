@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false # crops the image to make it circular <a href='#'>Affiliations</a>
   more_info: >
     <p>Soft Condensed Matter Group</p>
     <p>Raman Research Institute</p>
