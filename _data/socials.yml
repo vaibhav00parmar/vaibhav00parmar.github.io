@@ -1,13 +1,16 @@
 # this file contains the social media links and usernames of the author
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
-
+email: vaibhav@rri.res.in
+# linkedin_username: vaibhav-parmar-42243b141
+orcid_id: 0000-0003-0895-6106
+x_username: "@vaibhavparmar42"
+scholar_userid: FHJ0Kg0AAAAJ
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
- email: vaibhav@rri.res.in # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -24,14 +27,12 @@
 # linkedin_username: vaibhav-parmar-42243b141 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
- orcid_id: 0000-0003-0895-6106 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: https://www.researchgate.net/profile/Vaibhav-Singh-Parmar?ev=hdr_xprf # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
- scholar_userid: FHJ0Kg0AAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -44,7 +45,6 @@
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
- x_username: @vaibhavparmar42 # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 #custom_social: # can be any name here other than the ones already defined above
