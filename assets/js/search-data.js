@@ -80,7 +80,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/2026/01/10/slide_cleaning.html";
+            window.location.href = "/2026/01/10/slide-cleaning.html";
           
         },
       },{id: "post-a-post-with-plotly-js",
