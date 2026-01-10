@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-how-to-clean-glass-slides-coverslip",
+        
+          title: "How to clean glass slides/coverslip",
+        
+        description: "Some procedures for cleaning glass slides for various experiments.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/01/10/slide_cleaning.html";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
